@@ -1,5 +1,5 @@
 # Vid2Gif
- Video to Gif converter
+ Video to Gif converter. I am hoping to evolve this into a useful tool for anyone. So, Vid2Gif is under active development.
 
 # But WHYYYYYY
 I needed a gif maker and I couldn't find one online that I can install on my system, perhaps I didn't look enough and just wanted to create my own :)
