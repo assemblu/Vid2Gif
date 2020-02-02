@@ -12,7 +12,7 @@ Place the video you want in the same folder named as <b>vid.mp4</b> and it will 
 # Roadmap
  <li><b>GUI</b></li>
 
-- [ ] A Functional UI with bare minimum elements.
+- [ ] A functional UI with bare minimum elements.
 - [ ] Has browse button
 - [ ] Shows the directory of the chosen video
 - [ ] Has a text field for desired frame rate
